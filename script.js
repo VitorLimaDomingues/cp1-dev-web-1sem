@@ -8,3 +8,14 @@ console.log(valor2)
 
 let valor3 = 'fiap'
 console.log(valor3) // Declarando a variável com valor.
+
+
+// Declarando a variável como String, depois convertendo para float, e apresentando o tipo da variável.
+
+let variavel = '123'
+console.log(typeof variavel) // Declarando a variável como "String".
+
+let variavel2 = parseFloat(variavel)
+ console.log(variavel2) // Convertendo a variável "String" para "Float".
+
+ console.log(typeof variavel2) // Apresentando o tipo da variável depois da conversão.
