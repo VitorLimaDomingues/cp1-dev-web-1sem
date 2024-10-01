@@ -49,3 +49,13 @@ let idade = 18;
 let email = "enzo.galhardo@example.com";
 let telefone = "(11) 98765-4321";
 
+// Função para imprimir as informações do usuário
+function imprimirUsuario() {
+    console.log("Nome: " + nome);
+    console.log("Idade: " + idade);
+    console.log("Email: " + email);
+    console.log("Telefone: " + telefone);
+}
+
+// Chamando a função para imprimir as informações
+imprimirUsuario();
