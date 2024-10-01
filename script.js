@@ -29,3 +29,15 @@ console.log(typeof numeroInteiro) // Declarando a variável como "Int"
 let numeroFloat = numeroInteiro * 1.0 // Convertendo a variável "Int" para "Float"
 console.log(numeroFloat) 
 console.log(typeof numeroFloat) // Apresentando o tipo da variável.
+
+// 4 ) Crie um programa que, declare a variável como float, depois converta para int, e em seguida, apresente o tipo da variável.
+
+// Declarando Variável como float 
+let ovelhas = 23
+console.log(typeof ovelhas)
+// convertendo para int 
+let ovelhas1 = parseInt(ovelhas)
+// exibindo tipo de variável
+console.log(ovelhas1)
+
+
