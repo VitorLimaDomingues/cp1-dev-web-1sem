@@ -41,3 +41,11 @@ let ovelhas1 = parseInt(ovelhas)
 console.log(ovelhas1)
 
 
+// 5 ) Crie um programa que declare o nome, idade, email e telefone de um usuário e imprima na tela.
+
+// Declaração das informações do usuário
+let nome = "Enzo Galhardo";
+let idade = 18;
+let email = "enzo.galhardo@example.com";
+let telefone = "(11) 98765-4321";
+
